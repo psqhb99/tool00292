@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tool00292.aihh.ai/sitemap.xml
